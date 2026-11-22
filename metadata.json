@@ -1,0 +1,6 @@
+{
+  "name": "KhataSaathi",
+  "description": "Your Voice. Your Khata. Your Business. Voice-first digital bookkeeping and customer credit ledger for Indian shopkeepers.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
